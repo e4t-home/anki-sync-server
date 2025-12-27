@@ -6,7 +6,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: j4n-e4t/anki-sync-server
+  IMAGE_NAME: e4t-home/anki-sync-server
 
 jobs:
   build-and-push:
